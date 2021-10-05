@@ -16,5 +16,16 @@ body {
     letter-spacing: 0.03em;
    
   }
+
+  h2 { 
+    color: white;
+    text-align: center;
+    font-weight: 200;
+    font-size: 28px;  
+    font-family: 'Carattere', cursive;
+    
+  }
   
+  
+
   
